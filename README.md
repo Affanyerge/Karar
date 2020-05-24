@@ -24,3 +24,6 @@ Tamam! Haydi çıkıyoruz.
 
 ## ANNE
 Yavaş sür ne olur zaten canım kursağımda şuracıkta doğrurum vallahi!
+
+## BABA 
+Kafa sallar tamam der gibi. 
